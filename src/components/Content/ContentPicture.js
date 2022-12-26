@@ -5,7 +5,7 @@ export const ContentPicture = [
     },
     {
       
-      image: 'pool',
+      image: 'Pool',
       text: 'Work for the result',
     },
     {
@@ -15,7 +15,7 @@ export const ContentPicture = [
     },
     {
       style: 'indent',
-      image: 'scuba',
+      image: 'Scuba',
       text: 'Assistance in the selection of equipment',
     },
   ];
