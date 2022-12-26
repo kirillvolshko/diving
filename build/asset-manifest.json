@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/diving/static/css/main.9d60af64.css",
+    "main.js": "/diving/static/js/main.e8f68506.js",
+    "static/media/mask.png": "/diving/static/media/mask.b42bf9fffa5f868e4f55.png",
+    "static/media/backgraundimage.jpg": "/diving/static/media/backgraundimage.57d9707a8eee770f9489.jpg",
+    "index.html": "/diving/index.html",
+    "main.9d60af64.css.map": "/diving/static/css/main.9d60af64.css.map",
+    "main.e8f68506.js.map": "/diving/static/js/main.e8f68506.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d60af64.css",
+    "static/js/main.e8f68506.js"
+  ]
+}

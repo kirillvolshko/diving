@@ -1,0 +1,135 @@
+
+.header{
+    background: url(./HeaderImage/backgraundimage.jpg);
+    background-position: right 70% bottom 50%;
+}
+.menu-header{
+    padding-top: 30px;
+    overflow: hidden;
+    text-align: center;
+}
+.menu-header div{
+    display: inline-block;
+    margin-bottom: 100px;
+}
+
+.items-li{
+    
+    list-style-type: none;
+    display: inline-block;
+    margin-left:50px;
+    margin-right:50px;
+    
+}
+.items-li a{
+    text-decoration: none;
+    color:#fff;
+}
+.menu-button{
+    padding-left: 250px;
+}
+.img-style{
+    padding-right: 250px;
+    height: 60px;
+    width: 60px;
+    vertical-align: middle;
+}
+.style-button{
+    width: 122px;
+    height: 42px;
+    border-radius: 9px;
+    border: 0;
+    background-color: #81DBF7;
+    font-family:'Inter';
+    font-size: 11pt;
+    font-weight: bold;
+    color:#082E48;
+    
+}
+.style-button:hover{
+cursor: pointer;
+}
+.content-header{
+    padding-top: 150px;
+    padding-left: 120px;
+}
+.main-title{
+    font-size: 150pt;
+    font-weight: bold;
+    color:#ffffff;
+    padding-bottom: 120px;
+}
+
+.main-text{
+    line-height:140%;
+    font-size: 15pt;
+    color:#ffffff;
+    margin-bottom: 70px;
+}
+.content-button{
+    width: 180px;
+    height: 60px;
+    border-radius: 9px;
+    border: 0;
+    background-color: #81DBF7;
+    font-family:'Inter';
+    font-size: 15pt;
+    font-weight: bold;
+    color:#082E48;
+    margin-bottom: 400px;
+}
+.img-content{
+    position: absolute;
+    top:400px;
+}
+@media (max-width:1400px) {
+    .main-title{
+        font-size: 40pt;
+        line-height:140%;
+        padding-bottom: 50px;
+    }
+    .main-text{
+        line-height:140%;
+        font-size: 10pt;
+        color:#ffffff;
+        margin-bottom: 70px;
+    }
+    .content-button{
+        width: 90px;
+        height: 30px;
+        border-radius: 9px;
+        border: 0;
+        font-size: 8pt;
+        margin-bottom: 100px;
+    }
+    .content-header{
+        padding-top: 50px;
+        padding-left: 10px;
+    }
+    .items-li{
+        font-size: 8.5pt;
+        margin-left:10px;
+        margin-right:0px;
+        
+    }
+    .menu-button{
+        padding-left: 10px;
+    }
+    .img-style{
+      
+        padding-right: 0px;
+        height: 50px;
+        width: 50px;
+       
+    }
+    .style-button{
+        width: 82px;
+        height: 22px;
+        border-radius: 4px;
+        border: 0;
+        font-size: 7pt;
+        
+        
+    }
+    
+}

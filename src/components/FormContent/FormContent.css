@@ -1,0 +1,100 @@
+
+.form-content{
+    background: url(./FormImage/mask.png);
+    padding-left: 150px;
+}
+.content-form{
+    padding-top: 200px;
+    padding-bottom: 150px;
+    columns: 2;
+}
+.form-title{
+    margin-top: 0;
+    padding-top: 100px;
+    font-size: 30pt;
+    color:#ffffff;
+    line-height:140%;
+}   
+.text-form{
+    padding-bottom: 150px;
+}
+.form{
+    
+    height: 600px;
+    width: 450px;
+    border: 3px;
+    border-radius: 15px;
+    background-color: rgba(0, 0, 0, 0.4);
+    
+}
+.title-in-form{
+    text-align: center;
+    margin-top: 0;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 20pt;
+    color:#ffffff;
+    line-height:140%;
+}
+.text-input{
+    font-size: 10pt;
+    color:#ffffff;
+    padding-left: 50px;
+    padding-bottom: 10px;
+}
+.MyInput{
+    width: 350px;
+    height: 40px;
+    border: 3px;
+    border-radius: 5px;
+    margin-left: 50px;
+    padding-left: 15px;
+    margin-bottom: 20px;
+}
+.MyBut{
+    
+    width: 365px;
+    height: 50px;
+    border: 3px;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-left: 50px;
+    background-color: #81DBF7;
+    font-family:'Inter';
+    font-size: 11pt;
+    font-weight: bold;
+    color:#082E48;
+}
+.MyBut:hover{
+    cursor: pointer;
+}
+@media (max-width:1400px) {
+    .form-content{
+        padding-left: 150px;
+    }
+    .content-form{
+        columns: 1;
+    } 
+}
+@media (max-width:800px) {
+    
+    .form-content{
+        padding-left: 10px;
+    }
+    .content-form{
+        columns: 1;
+    }
+    .form-title{
+        font-size: 25pt;
+    }
+    .form{
+        height: 600px;
+        width: 390px;
+    }
+    .MyInput{
+        width: 290px;
+    }
+    .MyBut{
+        width: 309px;
+    }
+}
