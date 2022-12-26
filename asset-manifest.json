@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/diving.git/static/css/main.f1c0b7fd.css",
+    "main.js": "/diving.git/static/js/main.e8f68506.js",
+    "static/media/mask.png": "/diving.git/static/media/mask.b42bf9fffa5f868e4f55.png",
+    "static/media/backgraundimage.jpg": "/diving.git/static/media/backgraundimage.57d9707a8eee770f9489.jpg",
+    "index.html": "/diving.git/index.html",
+    "main.f1c0b7fd.css.map": "/diving.git/static/css/main.f1c0b7fd.css.map",
+    "main.e8f68506.js.map": "/diving.git/static/js/main.e8f68506.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1c0b7fd.css",
+    "static/js/main.e8f68506.js"
+  ]
+}
